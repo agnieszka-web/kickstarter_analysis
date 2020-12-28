@@ -12,10 +12,7 @@ The purpose of this analysis was to find out how different campaigns in the Kick
 
 
 ### Outcomes based on Launch Date
-
 For the analysis for the Theater outcomes based on launch date we can notice that the most successful months were May and June.  The slowest month for the campaign was December. There were 839 successful campaigns, 493 failed campaigns and 37 canceled campaigns, for a total of 1369 campaigns.
-
-- What can you conclude about the Outcomes based on Goals?
 
 ### Outcomes based on Goals 
 The goal dollar amount ranges range from less then $1000 to more then $50000.
@@ -26,10 +23,8 @@ for The highest contribution of over $50000 there were 2 successful campaigns.
 The most failed goal amount range was the $1000 to $4999 range for the total of 146 failed campaigns.  
 The greates amount of over $50000 there were 10 failed campaigns.  
 
-- What are some limitations of this dataset?
-
-
-- What are some other possible tables and/or graphs that we could create?
+### Difficulties
+I found that there were not difficulties with this data set.  I could see a difficulty if there was no outcomes column.
 
 ### Graphs 
 We could also create the Clustered Column chart or the Clustered Bar chart because there are only 3 outcomes: Successful, failed and canceled.  It would be easy to represent only 3 outcomes in a clustered column chart.  
