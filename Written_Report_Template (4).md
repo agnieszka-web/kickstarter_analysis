@@ -6,10 +6,9 @@
 The purpose of this analysis was to find out how different campaigns in the Kickstarter dataset progressed according to their launch dates and their funding goals.
 
 ## Analysis and Challenges
-![Outcomes_vs_Goals.png](C:\Users\agnie\Desktop\DataBootCamp\Analysis Project\Crowdfunding Analysis\resources\Outcomes_vs_Goals.png)
 
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/76173584/103231117-6e5e2c00-490d-11eb-859b-6284339d6c5c.png)
-
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/76173584/103231266-c85ef180-490d-11eb-8a2f-5d953734fbec.png)
 
 ### Analysis of Outcomes Based on Launch Date
 
